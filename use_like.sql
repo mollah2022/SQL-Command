@@ -1,0 +1,3 @@
+SELECT *
+FROM teachers
+WHERE NAME LIKE 'S%';
